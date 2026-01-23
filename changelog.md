@@ -28,5 +28,3 @@ Mantente al día con las últimas mejoras de QGISRed.
 *   Corregido error con el símbolo decimal en las opciones del modelo PDA.
 
 
-
-[Ver versiones anteriores...](registro-de-cambios/versiones-anteriores.md)
