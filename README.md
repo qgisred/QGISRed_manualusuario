@@ -1,5 +1,19 @@
-# ¿Qué es QGISRed?
+# Bienvenido a QGISRed 🚀
 
-QGISRed es una herramienta de ayuda al ingeniero hidráulico en la tarea de modelar una red de distribución de agua y en el proceso de toma de decisiones, dentro del entorno de un Sistema de Información Geográfico (SIG). Esta herramienta está diseñada como un complemento (plugin) del software libre QGis. Sin embargo, QGISRed emplea el código fuente del software GISRed, aplicación diseñada como herramienta de escritorio para el sistema operativo Windows.
+**QGISRed** es un potente complemento para QGIS diseñado para facilitar la creación y el análisis de modelos hidráulicos de redes de distribución de agua. 
 
-El plugin QGISRed se desarrolla con el objetivo de poder aprovechar todas las herramientas que un entorno SIG puede proporcionar de manera nativa. Por ejemplo, herramientas de geo-proceso, utilización de imágenes de satélite, gestión de estilos, etc. Por el contrario, este plugin tendrá una serie de limitaciones frente al potencial que pueda incluir la herramienta GISRed.
+Lo mejor de QGISRed es que combina la potencia de un **Entorno GIS** con la precisión de **EPANET**, permitiéndote trabajar con gemelos digitales de cualquier complejidad.
+
+### ¿Por qué usar QGISRed?
+*   **Georreferenciación completa**: Aprovecha todas las ventajas de QGIS para geolocalizar tus activos.
+*   **Gestión de Datos Sencilla**: Utiliza archivos SHP y DBF con una estructura relacional intuitiva.
+*   **Herramientas Especializadas**: Incluye utilidades para depuración de red, gestión de demandas y análisis de resultados sin salir de QGIS.
+*   **Gemelos Digitales**: Soporta elementos como acometidas, válvulas manuales y medidores para un nivel de detalle avanzado.
+
+---
+> [!NOTE]
+> Este plugin ha sido desarrollado por el Grupo de Redes Hidráulicas **REDHISP** del IIAMA (Universitat Politècnica de València).
+
+![Logo de QGISRed](assets/logo_qgisred.png)
+
+¿Listo para empezar? Consulta la [Guía de Instalación](instalacion/README.md) o salta directamente a la [Guía Rápida](guia-rapida/README.md).

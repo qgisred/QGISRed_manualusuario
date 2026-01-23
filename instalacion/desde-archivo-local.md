@@ -1,19 +1,13 @@
-# Desde archivo local
+# Instalación desde ZIP Local
 
-Para instalar una actualización del plugin de forma local, previamente a los pasos que se comentan a continuación, es necesario desinstalarlo. Para ello, se puede desinstalar desde el propio gestor de complementos de QGis, o manualmente borrando el directorio correspondiente.
+Si dispones de una versión específica en un archivo `.zip`, puedes instalarla manualmente:
 
-1.- Iniciar QGis v3.x
+1.  Abre QGIS.
+2.  Ve al menú **Complementos > Administrar e instalar complementos...**.
+3.  Selecciona la pestaña **Instalar a partir de ZIP**.
+4.  Busca tu archivo `QGISRed.zip` y pulsa **Instalar complemento**.
 
-2.- Acceder al menú Complementos --> Administrar e instalar complementos…
+![Instalación desde ZIP](../assets/images/image12.png)
 
-![](<../.gitbook/assets/image (2).png>)
-
-3.- Seleccionar la pestaña “Instalar a partir de ZIP”, seleccionar el fichero _**QGISRed.zip**_. A continuación, pulsar en “Instalar complemento” y si aparece el mensaje de aviso, pulsar en “Sí”.
-
-![](../.gitbook/assets/image.png)
-
-4.- Cerrar la ventana al finalizar el proceso.
-
-5.- Debe aparecer una nueva barra de botones y un nuevo elemento en el menú superior.
-
-![](<../.gitbook/assets/image (5).png>)
+> [!WARNING]
+> Verás un aviso de seguridad de QGIS al instalar desde un archivo local. Pulsa **Sí** para continuar.

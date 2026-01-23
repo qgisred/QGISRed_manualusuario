@@ -1,15 +1,45 @@
-# Table of contents
+# # Table of contents
 
-* [¿Qué es QGISRed?](README.md)
+* [🚀 Bienvenido a QGISRed](README.md)
 
-## ▫ Registro de cambios
+## 🛠️ Empezando
+* [💻 Instalación](instalacion/README.md)
+    * [Requisitos del sistema](instalacion/requisitos.md)
+    * [Instalación desde repositorio](instalacion/desde-repositorio.md)
+    * [Instalación desde ZIP local](instalacion/desde-archivo-local.md)
+    * [Gestión de dependencias](instalacion/dependencias.md)
 
-* [Última versión (0.15)](registro-de-cambios/ultima-version-0.15.md)
-* [Versiones anteriores](registro-de-cambios/versiones-anteriores.md)
+## ⚡ Guía Rápida
+* [🧭 Primeros pasos](guia-rapida/README.md)
+    * [Explorador de Proyectos](guia-rapida/archivo.md)
+    * [Gestión de Capas e Inputs](guia-rapida/proyecto.md)
 
-## 💿 Instalación
+## ✏️ Edición y Modelado
+* [🏗️ Herramientas de Edición](edicion/README.md)
+    * [Creación de elementos](edicion/creacion.md)
+    * [Manipulación gráfica](edicion/manipulacion.md)
+    * [Edición de propiedades](edicion/propiedades.md)
+* [⚙️ Curvas y Controles](edicion/configuracion.md)
+    * [Patrones y Curvas](edicion/curvas.md)
+    * [Controles y Reglas](edicion/controles.md)
 
-* [Requisitos](instalacion/requisitos.md)
-* [Desde repositorio](instalacion/desde-repositorio.md)
-* [Desde archivo local](instalacion/desde-archivo-local.md)
-* [Dependencias](instalacion/dependencias.md)
+## ✅ Calidad del Modelo
+* [🔍 Verificaciones](verificaciones/README.md)
+    * [Topología y Conectividad](verificaciones/topologia.md)
+    * [Análisis de Atributos](verificaciones/atributos.md)
+* [🛠️ Herramientas Avanzadas](herramientas/README.md)
+    * [Gestión de Demandas](herramientas/demandas.md)
+    * [Escenarios y Cerradas](herramientas/escenarios.md)
+
+## 📊 Simulación y Resultados
+* [🧪 Análisis Hidráulico](analisis/README.md)
+    * [Ejecución y Reportes](analisis/ejecucion.md)
+    * [Visor de Resultados](analisis/resultados.md)
+
+## 🧬 Gemelo Digital
+* [🏢 Elementos Avanzados](gemelo-digital/README.md)
+    * [Acometidas y Contadores](gemelo-digital/acometidas.md)
+    * [Sensores y Telelectura](gemelo-digital/sensores.md)
+
+## 📂 Otros
+* [📜 Registro de Cambios](changelog.md)
