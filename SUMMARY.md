@@ -17,7 +17,7 @@
 ## ✏️ Edición y Modelado
 * [🏗️ Herramientas de Edición](edicion/README.md)
     * [Creación de elementos](edicion/creacion.md)
-    * [Manipulación gráfica](edicion/manipulacion.md)
+    * [Manipulación y Vértices](edicion/manipulacion.md)
     * [Edición de propiedades](edicion/propiedades.md)
 * [⚙️ Curvas y Controles](edicion/configuracion.md)
     * [Patrones y Curvas](edicion/curvas.md)
@@ -27,20 +27,32 @@
 * [🔍 Verificaciones](verificaciones/README.md)
     * [Topología y Conectividad](verificaciones/topologia.md)
     * [Análisis de Atributos](verificaciones/atributos.md)
+    * [Sectores Hidráulicos](verificaciones/sectores.md)
 * [🛠️ Herramientas Avanzadas](herramientas/README.md)
-    * [Gestión de Demandas](herramientas/demandas.md)
+    * [Interpolación de Cotas](herramientas/elevacion.md)
+    * [Gestión de Rugosidad](herramientas/rugosidad.md)
+    * [Gestor de Demandas](herramientas/demandas.md)
     * [Escenarios y Cerradas](herramientas/escenarios.md)
 
 ## 📊 Simulación y Resultados
 * [🧪 Análisis Hidráulico](analisis/README.md)
-    * [Ejecución y Reportes](analisis/ejecucion.md)
+    * [Ejecución y Opciones](analisis/ejecucion.md)
     * [Visor de Resultados](analisis/resultados.md)
 
 ## 🧬 Gemelo Digital
 * [🏢 Elementos Avanzados](gemelo-digital/README.md)
-    * [Acometidas y Contadores](gemelo-digital/acometidas.md)
-    * [Sensores y Telelectura](gemelo-digital/sensores.md)
+    * [Acometidas y Telelectura](gemelo-digital/acometidas.md)
+    * [Sensores y Telecontrol](gemelo-digital/sensores.md)
 
-## 📂 Otros
+## 📖 Tutoriales
+* [🎓 Ejemplos Prácticos](ejemplos/README.md)
+    * [Ejemplo 1: Desde INP](ejemplos/ejemplo-1.md)
+    * [Ejemplo 2: Creación Manual](ejemplos/ejemplo-2.md)
+
+## 📂 Apéndice Técnico
+* [🏗️ Lista de Materiales](apendice/materiales.md)
+* [🔢 Formatos y Gestión DBF](apendice/formatos.md)
+
+---
 * [📜 Registro de Cambios](changelog.md)
     * [🕒 Versiones Anteriores](registro-de-cambios/versiones-anteriores.md)

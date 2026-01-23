@@ -1,12 +1,16 @@
-# Ejecución y Reportes
+# Ejecución y Opciones Hidráulicas
 
-Para lanzar una simulación:
+Configura todos los parámetros del motor de EPANET directamente desde QGIS.
 
-1.  Haz clic en el botón **Run Model** ![Run](assets/icons/run.png).
-2.  Se abrirá un panel lateral. Haz clic en el botón de "Play" para ejecutar.
-3.  Revisa el **Reporte de EPANET** que aparecerá automáticamente indicando si la simulación ha convergido.
+### Opciones de Análisis
+Desde el menú **Analysis > Analysis Options**, puedes configurar:
+*   **Hidráulica**: Unidades de caudal, fórmulas de pérdida de carga (D-W, H-W, C-M) y gravedad.
+*   **Calidad**: Análisis de cloro, edad del agua o traza de fuente.
+*   **Tiempos**: Duración de la simulación, paso de tiempo hidráulico y de calidad.
+*   **Energía**: Precios de electricidad y eficiencia de las bombas.
 
-### Tipos de Análisis
-*   **Hidráulico**: Presiones, caudales y niveles en depósitos.
-*   **Calidad**: Edad del agua, cloro residual o traza de fuente.
-*   **Energía**: Costes de bombeo y eficiencia.
+> [!NOTE]
+> En la pestaña **General**, también puedes habilitar el modelo **PDA (Pressure Dependent Analysis)** para simulaciones donde la demanda varía con la presión local.
+
+### El Reporte de EPANET
+Al finalizar una simulación exitosa, QGISRed muestra automáticamente el reporte de texto generado por la *Toolkit* de EPANET. Este archivo contiene el balance de masa, advertencias de nudos con presión negativa y el resumen de la convergencia.
