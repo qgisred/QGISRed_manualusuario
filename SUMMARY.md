@@ -1,6 +1,6 @@
 # # Table of contents
 
-* [🚀 Bienvenido a QGISRed](introduccion/README.md)
+* [🚀 Bienvenido a QGISRed](README.md)
     * [👥 Créditos y Autoría](introduccion/creditos.md)
 
 ## 🛠️ Empezando
