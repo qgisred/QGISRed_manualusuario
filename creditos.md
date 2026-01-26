@@ -12,23 +12,24 @@
     *   🏢 WaterPi
     *   📧 [info@waterpi.com](mailto:info@waterpi.com)
 
-### Institución
-El desarrollo se enmarca dentro de las actividades de investigación y transferencia tecnológica de la:
-
-**Universitat Politècnica de València (UPV)**
-[qgisred.upv.es](http://qgisred.upv.es)
-[www.redhisp.upv.es](http://www.redhisp.upv.es)
-![Logo REDHISP](../assets/images/image3.png)
-[www.iiama.upv.es](http://www.iiama.upv.es)
-![Logo IIAMA](../assets/images/image4.png)
-[www.upv.es](http://www.upv.es)
-![Logo UPV](../assets/images/image5.png)
-
 ---
 
-### Colaboradores
-[www.waterpi.com](http://www.waterpi.com)
-![Logo WaterPi](../assets/images/image6.png)
+### Instituciones
 
+El desarrollo se enmarca dentro de las actividades de investigación y transferencia tecnológica de la **Universitat Politècnica de València (UPV)**.
+
+| Entidad | Logo |
+| :--- | :--- |
+| **Portal QGISRed** | [![Logo QGISRed](../assets/images/image1.png)](http://qgisred.upv.es) |
+| **REDHISP** | [![Logo REDHISP](../assets/images/image3.png)](http://www.redhisp.upv.es) |
+| **IIAMA** | [![Logo IIAMA](../assets/images/image4.png)](http://www.iiama.upv.es) |
+| **UPV** | [![Logo UPV](../assets/images/image5.png)](http://www.upv.es) |
+
+### Colaboradores
+| Entidad | Logo |
+| :--- | :--- |
+| **WaterPi** | [![Logo WaterPi](../assets/images/image6.png)](http://www.waterpi.com) |
+
+---
 
 > 💡 **NOTA**: QGISRed es software gratuito desarrollado con el objetivo de facilitar la gestión del ciclo integral del agua mediante herramientas de Gemelo Digital de libre acceso.
