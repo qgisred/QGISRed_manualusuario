@@ -9,5 +9,5 @@ Para empezar a usar QGISRed, necesitas tener instalado **QGIS (v3.2 o superior)*
 *   [Dependencias necesarias](dependencias.md)
 
 ---
-> [!IMPORTANT]
+> ❗ **IMPORTANTE**:
 > QGISRed requiere **.NET Framework 4.5** o superior para funcionar correctamente.

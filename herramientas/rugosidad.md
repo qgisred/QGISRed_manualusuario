@@ -15,7 +15,7 @@ QGISRed permite convertir coeficientes de rugosidad automáticamente cuando camb
 *   **Darcy-Weisbach (D-W)** $\leftrightarrow$ **Hazen-Williams (H-W)**
 *   **Darcy-Weisbach (D-W)** $\leftrightarrow$ **Chezy-Manning (C-M)**
 
-> [!IMPORTANT]
+> ❗ **IMPORTANTE**:
 > Al cambiar la fórmula en las **Opciones Hidráulicas**, el plugin te preguntará si deseas realizar la conversión masiva de todas las rugosidades existentes para mantener la coherencia física del modelo.
 
 ### Tabla de Materiales

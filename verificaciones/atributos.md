@@ -9,5 +9,5 @@ QGISRed permite auditar de forma masiva los datos introducidos en los elementos 
 *   **Análisis de Fechas**: Detecta fechas de instalación incorrectas, mal formateadas o que apunten al futuro.
 
 ---
-> [!NOTE]
+> 💡 **NOTA**:
 > Estas verificaciones son esenciales antes de proceder con el cálculo de rugosidades basado en la edad, ya que dependen directamente de la precisión del material y la fecha de instalación.

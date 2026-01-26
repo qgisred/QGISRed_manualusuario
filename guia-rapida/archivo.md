@@ -21,5 +21,5 @@ Si necesitas crear una variante de una red:
 ![Dialogo Clonar](../assets/images/image22.png)
 
 ---
-> [!TIP]
+> 💡 **CONSEJO**:
 > Recuerda que cualquier herramienta del plugin trabajará sobre los archivos del directorio del proyecto, no solo sobre lo que ves abierto en la leyenda de QGIS.

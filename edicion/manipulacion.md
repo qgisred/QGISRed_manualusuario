@@ -27,5 +27,5 @@ Esta herramienta desplaza un nodo (Junction, Tank, Reservoir) y arrastra consigo
 | **Desplazar Válvulas/Bombas** | Mueve un elemento de una tubería a otra manteniendo sus propiedades. |
 | **Cambiar Estado** | Alterna el estado (Abierto/Cerrado) de tuberías y válvulas manuales. |
 
-> [!NOTE]
+> 💡 **NOTA**:
 > Si una tubería tiene una válvula manual, el cambio de estado debe realizarse sobre la válvula, no sobre la tubería.

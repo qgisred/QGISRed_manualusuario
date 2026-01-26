@@ -18,5 +18,5 @@ Usa la barra de herramientas de QGISRed para construir tu red. Los botones está
 *   **División inteligente**: El plugin dividirá la tubería original en dos tramos o la acortará para insertar el nuevo elemento manteniendo la conectividad.
 
 ---
-> [!IMPORTANT]
+> ❗ **IMPORTANTE**:
 > A diferencia de otros editores de EPANET, en QGISRed **no necesitas definir manualmente los IDs de nudos iniciales y finales**. El plugin utiliza análisis espacial para conectar las líneas y nudos automáticamente.

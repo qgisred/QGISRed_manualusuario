@@ -19,5 +19,5 @@ El plugin utiliza un formato de intercambio sencillo para gestionar miles de dem
 *   **Borrado Selectivo**: Permite eliminar demandas de nudos seleccionados y, opcionalmente, limpiar las curvas de modulación que ya no se utilicen.
 
 ---
-> [!TIP]
+> 💡 **CONSEJO**:
 > Puedes exportar el estado actual de todas las demandas a CSV, editarlas en Excel y volver a importarlas para realizar cambios masivos de forma externa.

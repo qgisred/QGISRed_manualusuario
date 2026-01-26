@@ -11,7 +11,7 @@ Lo mejor de QGISRed es que combina la potencia de un **Entorno GIS** con la prec
 *   **Gemelos Digitales**: Soporta elementos como acometidas, válvulas manuales y medidores para un nivel de detalle avanzado.
 
 ---
-> [!NOTE]
+> 💡 **NOTA**:
 > Este plugin ha sido desarrollado por el Grupo de Redes Hidráulicas **REDHISP** del IIAMA (Universitat Politècnica de València).
 
 ![Logo de QGISRed](assets/images/image1.png)

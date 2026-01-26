@@ -10,5 +10,5 @@ Convierte tu modelo GIS en un Gemelo Digital avanzado incorporando elementos que
 *   **Válvulas de Corte**: Gestiona el cierre manual de sectores y detecta afecciones a clientes.
 
 ---
-> [!IMPORTANT]
+> ❗ **IMPORTANTE**:
 > Puedes cargar lecturas automáticas de contador en formatos **Serie** o **Tabla** para una precisión máxima en las demandas.

@@ -25,5 +25,5 @@ QGISRed utiliza una lista predefinida de materiales para estimar las rugosidades
 *   **LEAD**: Plomo.
 
 ---
-> [!NOTE]
+> 💡 **NOTA**:
 > Si el material es desconocido, usa `UNDETERMINED` o `UNKNOWN`. En estos casos, el plugin no podrá estimar la rugosidad automáticamente y deberás introducirla manualmente.

@@ -18,5 +18,5 @@ QGISRed soporta la integración de datos de contadores inteligentes. Los formato
 *   **Formato Serie**: `Id; Time; Demand` (Un registro por fila).
 
 ---
-> [!TIP]
+> 💡 **CONSEJO**:
 > Puedes exportar todos los datos de telelectura acumulados a un único fichero CSV para su análisis externo.

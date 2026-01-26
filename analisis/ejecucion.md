@@ -9,7 +9,7 @@ Desde el menú **Analysis > Analysis Options**, puedes configurar:
 *   **Tiempos**: Duración de la simulación, paso de tiempo hidráulico y de calidad.
 *   **Energía**: Precios de electricidad y eficiencia de las bombas.
 
-> [!NOTE]
+> 💡 **NOTA**:
 > En la pestaña **General**, también puedes habilitar el modelo **PDA (Pressure Dependent Analysis)** para simulaciones donde la demanda varía con la presión local.
 
 ### El Reporte de EPANET

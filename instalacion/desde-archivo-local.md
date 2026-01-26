@@ -9,5 +9,5 @@ Si dispones de una versión específica en un archivo `.zip`, puedes instalarla 
 
 ![Instalación desde ZIP](../assets/images/image12.png)
 
-> [!WARNING]
+> ⚠️ **ADVERTENCIA**:
 > Verás un aviso de seguridad de QGIS al instalar desde un archivo local. Pulsa **Sí** para continuar.

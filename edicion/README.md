@@ -10,5 +10,5 @@ QGISRed permite construir tu red de agua de forma visual e intuitiva directament
 *   [Edición de propiedades](propiedades.md) (Diámetros, materiales, rugosidades).
 
 ---
-> [!TIP]
+> 💡 **CONSEJO**:
 > Al crear una tubería, QGISRed genera automáticamente los nudos extremos si no existen.

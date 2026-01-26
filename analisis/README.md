@@ -8,5 +8,5 @@ Una vez definida la red, QGISRed permite realizar simulaciones hidráulicas y de
 *   [Ejecución del modelo](ejecucion.md)
 *   [Visor de resultados](resultados.md)
 
-> [!IMPORTANT]
+> ❗ **IMPORTANTE**:
 > Antes de simular, es recomendable pasar las [Verificaciones](../verificaciones/README.md) de topología.

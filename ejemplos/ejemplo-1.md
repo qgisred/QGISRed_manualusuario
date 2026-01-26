@@ -16,5 +16,5 @@ Pulsa sobre **Run model**. Al instante verás:
 *   Las capas de resultados cargadas con la simbología por defecto.
 *   El panel lateral para cambiar entre instantes de tiempo.
 
-> [!TIP]
+> 💡 **CONSEJO**:
 > Desactiva el grupo de capas "Inputs" para apreciar mejor los colores de los resultados.

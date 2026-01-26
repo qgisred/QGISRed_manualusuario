@@ -11,5 +11,5 @@ QGISRed incluye un conjunto de herramientas para asegurar que tu modelo es hidr�
 *   **Análisis de Conectividad**: Identifica zonas aisladas y subredes desconectadas.
 
 ---
-> [!TIP]
+> 💡 **CONSEJO**:
 > Usa los **Sectores Hidráulicos** (Tipo A al D) para entender rápidamente cómo se alimenta cada parte de tu red.

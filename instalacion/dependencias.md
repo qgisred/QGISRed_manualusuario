@@ -2,7 +2,7 @@
 
 Al intentar usar una herramienta de QGISRed por primera vez, verás un aviso solicitando instalar dependencias adicionales.
 
-> [!TIP]
+> 💡 **CONSEJO**:
 > Estas dependencias no requieren permisos de administrador y se instalan automáticamente.
 
 ![Dialogo Dependencias](../assets/images/image13.png)

@@ -8,5 +8,5 @@
 4.  **Simula**: Obtén resultados hidráulicos en segundos.
 
 ---
-> [!NOTE]
+> 💡 **NOTA**:
 > Todos los datos se guardan en archivos locales bajo una estructura relacional compatible con EPANET.

@@ -7,5 +7,5 @@ Para que un modelo hidráulico sea algo más que tuberías estáticas, necesitam
 *   [**Curvas y Patrones**](curvas.md): El "ritmo" de la demanda y el rendimiento de las máquinas.
 *   [**Controles y Reglas**](controles.md): El "cerebro" que automatiza la operación de válvulas y bombas.
 
-> [!TIP]
+> 💡 **CONSEJO**:
 > Si importas un modelo desde un archivo INP, toda esta información se cargará automáticamente en las tablas correspondientes del proyecto.
