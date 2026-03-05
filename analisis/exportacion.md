@@ -8,7 +8,7 @@ Para acceder a la exportación, utiliza la opción **Export to INP** desde el me
 
 Al lanzar la exportación, aparece el siguiente diálogo con las opciones disponibles:
 
-![Diálogo de exportación al formato INP](assets/images/image69.png)
+![Diálogo de exportación al formato INP](../assets/images/image69.png)
 
 Las opciones que presenta el diálogo son:
 
