@@ -39,6 +39,7 @@
 * [🧪 Análisis Hidráulico](analisis/README.md)
     * [Ejecución y Opciones](analisis/ejecucion.md)
     * [Visor de Resultados](analisis/resultados.md)
+    * [Exportación del Modelo](analisis/exportacion.md)
 
 ## 🧬 Gemelo Digital
 * [🏢 Elementos Avanzados](gemelo-digital/README.md)
